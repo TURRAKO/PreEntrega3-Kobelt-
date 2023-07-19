@@ -1,0 +1,39 @@
+/*ENCABEZADO*/
+
+header{
+    display: flex;
+    text-align: center;
+    justify-content: space-between  ;
+    align-items: center;
+    background-color: #ee6a32;
+    width: 100%;
+}
+
+.logo{
+
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+.Inicio{
+    display: flex;
+    color: black;
+    a{
+        border-radius: 5px;
+        font-weight: bold;
+        font-family: 'Raleway', sans-serif;
+        font-size: 20px;
+        justify-content: space-between;
+        font-family: 'Quicksand', sans-serif;;
+    }
+}
+
+.nav-link{
+ 
+    margin: 50px;
+
+}
+.nav-opi{
+
+    text-align: right;
+}

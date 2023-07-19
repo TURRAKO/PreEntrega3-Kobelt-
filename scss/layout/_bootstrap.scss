@@ -1,0 +1,48 @@
+/*MAIN UNETE*/
+
+.form{
+    display: flex;
+    width: 0%;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: violet;
+}
+.form-control{
+    margin-left: 630px;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.form-check .form-check-input{
+    align-items: center;
+    justify-content: center;
+    float: none;
+}
+.mb-3{
+    align-items: center;
+    justify-content: center;
+
+}
+.file{
+    background-color: violet;
+    padding: 50px;
+}
+.btn-primary{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    background-color: rgba(153, 18, 216, 0.377);
+    border: 10px black solid;
+    color: #0a0a0a;
+    padding: 10px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .3s;
+}
+.form-text{
+    background-color: yellow;
+    width: 1000px;
+    display: inline;
+
+}

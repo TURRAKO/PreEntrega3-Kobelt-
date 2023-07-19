@@ -1,0 +1,60 @@
+/**Mediaqueries**/
+
+/**Media Navbar**/
+@media screen and (max-width: 960px){
+    .Inicio {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 360px){
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/**Media about**/
+@media screen and (max-width: 1280px){
+    .about{
+        display: block;
+    }
+}
+
+@media screen and (max-width: 632px){
+    .btn_3{
+        display: table-cell;
+    }
+}
+
+/**Media Footer**/
+@media screen and (max-width: 500px){
+    .grupo-1{
+        display: flow-root;
+        text-align: center;
+    }
+    .red-social{
+        width: 100%;
+    }
+}
+
+/**Media Index**/
+@media screen and (max-width: 980px){
+    .cards{
+        display: grid;
+    }
+}
+
+@media screen and (max-width: 1280px){
+    .hero{
+        padding-left: 5px;
+    }
+}
+
+@media screen and (max-width: 355px){
+    .btn_2{
+        padding: 10px 5px;
+    }
+}

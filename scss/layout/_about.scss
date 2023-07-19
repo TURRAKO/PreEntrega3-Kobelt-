@@ -1,0 +1,24 @@
+.about h1{
+    justify-content: start;
+    text-align: start;
+    font-size: 40px;
+}
+.about li{
+    font-size: 30px;    
+}
+.about__2{
+    text-align: left;
+    display: flex;
+    iframe{
+        margin-right: 100px;
+    }
+    .about h2{
+        font-size: 40px;
+    }
+}
+
+.horarios{
+    background-color: #e0ca04;
+    padding-left: 30px;
+    padding-right: 820px;
+}

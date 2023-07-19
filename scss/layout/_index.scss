@@ -1,0 +1,100 @@
+/*MAIN INDEX*/
+
+.hero{
+    background-image: url(../Multimedia/paisaje.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    font-size: 200px;
+    padding-top: 180px;
+    padding-left: 300px;
+    background-color: #ee6a32;
+    object-fit: cover;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Quicksand', sans-serif;;
+    }
+    
+    .hero h2{
+        color: #080808;
+        font-size: 45px;
+        font-family: 'Quicksand', sans-serif;
+    
+    }
+    
+    .hero h1{
+        font-size: 130px;
+        padding-bottom: 30px;
+        font-family: 'Quicksand', sans-serif;;
+    }
+    
+    .btn_2{
+        color: rgb(0, 0, 0);
+        font-size: 40px;
+        background-color: #ee6a3283;
+        border: 10px black solid;
+        color: #0a0a0a;
+        padding: 10px 50px;
+        border-radius: 10px;
+        align-items: start;
+        justify-content: start;
+        text-align: start;
+        display: inline;
+        font-family: 'Quicksand', sans-serif;;
+    }
+    
+    section {
+        background-color: rgb(204, 204, 204);
+        padding: 15px;
+    }
+    
+    /*CARDS*/
+    
+    .cards__2{
+        background-color: rgb(204, 204, 204);
+        text-align: center;
+    }
+    
+    .cards__2 h2{
+        font-size: 50px;
+        font-family: 'Quicksand', sans-serif;;
+    }
+    
+    .cards{
+        display: flex;
+        justify-content: center;
+        gap: 0px;
+        padding-top: 50px;
+        padding-bottom: 100px;
+        box-shadow: 0 .3rem 5rem black;
+        margin-top: 10px; 
+        width: 100%;
+    }
+    .card {
+        background-color: rgb(204, 204, 204);
+        object-fit: cover;
+        width: 100%;
+        margin: 2%;
+        margin-top: 20px;
+        width: 229px;
+        box-shadow: 0 .1rem 4rem black;
+        margin-left: 30px;
+        width: 389px;
+    }
+    
+    .imagen{
+        padding-left: 30px;
+    }
+    
+    
+    .card__body h3{
+        font-size: 35px;
+        font-family: 'Quicksand', sans-serif;;
+    }
+    
+    .card__body h4{
+        font-size: 20px;
+        width: 100%;
+        padding-top: 10px;
+        font-family: 'Quicksand', sans-serif;;
+    }
